@@ -1,0 +1,65 @@
+html, body, #root {
+  font: 0.9rem sans-serif;
+  background-image: URL("https://cutewallpaper.org/21/weather-desktop-background/Background-Images,-Love,-Amazing,-Nice-Weather,-Sky,-Romance-.jpg") ; 
+  color: #ffffff;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.main {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-position: center;
+}
+
+
+
+.city-temp {
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 10px;
+  color: #ffffff;
+  text-align: center;
+}
+
+
+
+.city-name {
+  font-size: 2em;
+}
+
+.city-name sup {
+  padding: 0.2em 0.6em;
+  margin-left: 0.2em;
+  border-radius: 30px;
+  color: #fff;
+  background: #001aff;
+}
+
+.city-icon {
+  margin-top: 10px;
+  width: 100px;
+  height: 100px;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.size{
+  font-size: 5rem;
+  margin-top: 5px;
+  text-align: center;
+  font-size: 30px;
+
+}
+ 

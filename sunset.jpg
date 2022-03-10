@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix___043-sunset" width="51.429" height="45" data-name="043-sunset" viewBox="0 0 51.429 45">
+    <defs>
+        <style>
+            .prefix__cls-3{fill:#ffd54f}
+        </style>
+    </defs>
+    <path id="prefix__Path_619" d="M128.143 144.071a16.056 16.056 0 0 1-4.564 11.25H118.5a1.508 1.508 0 0 0-1.125.482l-4.307 4.275a7.749 7.749 0 0 1-1.993 0l-4.307-4.275a1.508 1.508 0 0 0-1.125-.482h-5.079a16.08 16.08 0 1 1 27.579-11.25z" data-name="Path 619" transform="translate(-86.357 -118.357)" style="fill:#ffc107"/>
+    <path id="prefix__Path_620" d="M49.821 384H32.143a1.619 1.619 0 0 0-1.138.469l-5.291 5.294-5.291-5.291a1.608 1.608 0 0 0-1.137-.472H1.607a1.607 1.607 0 0 0 0 3.214H18.62l5.959 5.959a1.61 1.61 0 0 0 2.273 0l5.956-5.959h17.013a1.607 1.607 0 0 0 0-3.214z" data-name="Path 620" transform="translate(0 -348.643)" style="fill:#607d8b"/>
+    <g id="prefix__Group_1621" data-name="Group 1621">
+        <path id="prefix__Path_621" d="M241.607 38.429a1.608 1.608 0 0 0 1.607-1.607v-3.215a1.607 1.607 0 1 0-3.214 0v3.214a1.608 1.608 0 0 0 1.607 1.608z" class="prefix__cls-3" data-name="Path 621" transform="translate(-215.893 -32)"/>
+        <path id="prefix__Path_622" d="M1.607 275.214h3.214a1.607 1.607 0 0 0 0-3.214H1.607a1.607 1.607 0 0 0 0 3.214z" class="prefix__cls-3" data-name="Path 622" transform="translate(0 -247.893)"/>
+        <path id="prefix__Path_623" d="M449.607 275.214h3.214a1.607 1.607 0 0 0 0-3.214h-3.214a1.607 1.607 0 1 0 0 3.214z" class="prefix__cls-3" data-name="Path 623" transform="translate(-403 -247.893)"/>
+        <path id="prefix__Path_624" d="M73.039 107.34a1.607 1.607 0 1 0 2.272-2.272l-2.272-2.268a1.607 1.607 0 0 0-2.272 2.273z" class="prefix__cls-3" data-name="Path 624" transform="translate(-63.235 -95.264)"/>
+        <path id="prefix__Path_625" d="M388.7 107.812a1.614 1.614 0 0 0 1.138-.469l2.269-2.272a1.607 1.607 0 0 0-2.273-2.273l-2.272 2.269a1.609 1.609 0 0 0 1.138 2.745z" class="prefix__cls-3" data-name="Path 625" transform="translate(-348.214 -95.264)"/>
+    </g>
+</svg>
